@@ -38,6 +38,6 @@ Files:
 
 - Kaggle_IEEE_Fraud_Detection_EDA contains data exploring and feature engineering ideas with plots.
 
-- Kaggle_IEEE_Fraud_Detection_Model contains modeling and feature engineering. 
+- Kaggle_IEEE_Fraud_Detection_Model contains data preprocessing, feature engineering, modeling and prediction.
 
 The baseline model with simple data preprocessing and modeling with RandomForest Classifier gives an AUC score 0.8783. My work with Lightgbm improved it by 11.1% and got an AUC score 0.97552.
