@@ -2,7 +2,9 @@
 Work for the Kaggle Competition "IEEE Fraud Detection"
 
 Competition overview:
+
 '''
+
 In this competition you are predicting the probability that an online transaction is fraudulent, as denoted by the binary target isFraud.
 
 The data is broken into two files identity and transaction, which are joined by TransactionID. Not all transactions have corresponding identity information.
@@ -26,6 +28,7 @@ Files
 train_{transaction, identity}.csv - the training set
 test_{transaction, identity}.csv - the test set (you must predict the isFraud value for these observations)
 sample_submission.csv - a sample submission file in the correct format
+
 '''
 
 requirements.txt contains packages used this work.
