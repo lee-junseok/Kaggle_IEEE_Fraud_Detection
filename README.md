@@ -1,4 +1,4 @@
-# Kaggle_IEEE_Fraud_Detection
+# Fraud_Transaction_Detection
 Work for the Kaggle Competition "IEEE Fraud Detection"
 
 Competition overview:
