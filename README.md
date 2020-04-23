@@ -4,9 +4,9 @@ This is a short machine learning project to detect fraud transaction.
 Transaction Data from the Kaggle Competition "IEEE Fraud Detection"
 
 ### Models used:
-Light GBM
-XGBoost
-Random Forest
+- Light GBM
+- XGBoost
+- Random Forest
 
 ### Competition overview:
 
@@ -47,4 +47,4 @@ sample_submission.csv - a sample submission file in the correct format
 - Kaggle_IEEE_Fraud_Detection_Model contains data preprocessing, feature engineering, modeling and prediction.
 
 ### Result
-The baseline model with simple data preprocessing and modeling with RandomForest Classifier gives an AUC score 0.8783. My work with Lightgbm improved it by 11.1% and got an AUC score 0.97552.
+- The baseline model with simple data preprocessing and modeling with RandomForest Classifier gives an AUC score 0.8783. My - work with Lightgbm improved it by 11.1% and got an AUC score 0.97552.
