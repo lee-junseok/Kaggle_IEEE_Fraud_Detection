@@ -1,5 +1,5 @@
 # Fraud_Transaction_Detection
-This is a small machine learning project to detect fraud transaction.
+This is a short machine learning project to detect fraud transaction.
 
 Transaction Data from the Kaggle Competition "IEEE Fraud Detection"
 
