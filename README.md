@@ -3,7 +3,12 @@ This is a short machine learning project to detect fraud transaction.
 
 Transaction Data from the Kaggle Competition "IEEE Fraud Detection"
 
-Competition overview:
+### Models used:
+Light GBM
+XGBoost
+Random Forest
+
+### Competition overview:
 
 '''
 
@@ -26,15 +31,14 @@ The TransactionDT feature is a timedelta from a given reference datetime (not an
 
 You can read more about the data from this post by the competition host.
 
-Files
+Data
 train_{transaction, identity}.csv - the training set
 test_{transaction, identity}.csv - the test set (you must predict the isFraud value for these observations)
 sample_submission.csv - a sample submission file in the correct format
 
 '''
 
-Files:
-
+### Files:
 
 - requirements.txt contains packages used this work.
 
@@ -42,4 +46,5 @@ Files:
 
 - Kaggle_IEEE_Fraud_Detection_Model contains data preprocessing, feature engineering, modeling and prediction.
 
+### Result
 The baseline model with simple data preprocessing and modeling with RandomForest Classifier gives an AUC score 0.8783. My work with Lightgbm improved it by 11.1% and got an AUC score 0.97552.
