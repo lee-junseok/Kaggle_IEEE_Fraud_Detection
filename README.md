@@ -1,5 +1,7 @@
 # Fraud_Transaction_Detection
-Work for the Kaggle Competition "IEEE Fraud Detection"
+This is a small machine learning project to detect fraud transaction.
+
+Transaction Data from the Kaggle Competition "IEEE Fraud Detection"
 
 Competition overview:
 
