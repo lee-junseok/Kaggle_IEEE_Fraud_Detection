@@ -2,7 +2,7 @@ ipython==7.11.1
 jupyter==1.0.0
 lightgbm==2.3.1
 matplotlib==3.1.2
-notebook==6.0.2
+notebook==6.1.5
 numpy==1.18.0
 pandas==0.25.3
 plotly==4.5.0
